@@ -28,7 +28,7 @@
 			"wk_day_cls": "17:30:00",
 			"sat_opn": "07:30:00",
 			"sat_cls": "12:00:00",
-			"sun_opn": "FECHADO",-42.6873936
+			"sun_opn": "FECHADO",
 			"sun_cls": "",
 			"frsrv": "",
 			"tbr": "true",
@@ -37,7 +37,7 @@
 			"services": "",
 			"cod": "BR10472",
 			"times_saturday": ""
-		},{
+		}, {
 			"name": "RIO BRANCO PNEUS",
 			"saddr": "Rod. BR 364",
 			"zip": "69907-868",
