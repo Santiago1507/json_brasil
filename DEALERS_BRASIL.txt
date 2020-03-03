@@ -1,4 +1,4 @@
-{
+{(DELETE IN MASTER)
 	"prv": [{
 			"name": "PNEUS CANTEIROS",
 			"saddr": "RUA IAIA VIANA DE LUCENA",
