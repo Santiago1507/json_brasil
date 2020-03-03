@@ -1,4 +1,4 @@
-{(DELETE IN MASTER)
+{
 	"prv": [{
 			"name": "PNEUS CANTEIROS",
 			"saddr": "RUA IAIA VIANA DE LUCENA",
@@ -37,6 +37,81 @@
 			"ag": "",
 			"services": "",
 			"cod": "BR10472",
+			"times_saturday": ""
+		},{
+			"name": "RIO BRANCO PNEUS",
+			"saddr": "Rod. BR 364",
+			"zip": "69907-868",
+			"country": "Brasil",
+			"state": "AC",
+			"city": "RIO BRANCO",
+			"phone": [{
+					"nbr": "(68) 3302-1259",
+					"cap": "contact phone number 1"
+				},
+				{
+					"nbr": "",
+					"cap": "contact phone number 2"
+				}
+			],
+			"email": [{
+				"eml": "riobrancopneusnfe@gmail.com",
+				"cap": "Primary"
+			}],
+			"website": "",
+			"lat": "-9.9934045",
+			"lon": "-67.8196986",
+			"wk_day_opn": "8:00:00",
+			"wk_day_cls": "18:00:00",
+			"sat_opn": "08:00:00",
+			"sat_cls": "12:00:00",
+			"sun_opn": "FECHADO",
+			"sun_cls": "",
+			"brsrv": "",
+			"frsrv": "",
+			"tbr": "true",
+			"otr": "",
+			"ag": "",
+			"services": "",
+			"cod": "BR13006",
+			"times_saturday": ""
+		},
+		{
+			"name": "HOFF",
+			"saddr": "AVENIDA ASSIS BRASIL",
+			"zip": "91140-001",
+			"country": "Brasil",
+			"state": "RS",
+			"city": "PORTO ALEGRE",
+			"phone": [{
+					"nbr": "(51) 3349-1000",
+					"cap": "contact phone number 1"
+				},
+				{
+					"nbr": "",
+					"cap": "contact phone number 2"
+				}
+			],
+			"email": [{
+				"eml": "truck.poa@hoff.com.br",
+				"cap": "Primary"
+			}],
+			"website": "",
+			"lat": "-29.9842736",
+			"lon": "-51.1184451",
+			"wk_day_opn": "0:00:00",
+			"wk_day_cls": "0:00:00",
+			"sat_opn": "00:00:00",
+			"sat_cls": "00:00:00",
+			"sun_opn": "FECHADO",
+			"sun_cls": "",
+			"brsrv": "",
+			"frsrv": "",
+			"tbr": "true",
+			"otr": "",
+			"ag": "",
+			"services": "",
+			"cod": "BR26875",
 			"times_saturday": ""
 		},
 		{
